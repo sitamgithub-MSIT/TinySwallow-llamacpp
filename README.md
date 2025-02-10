@@ -33,7 +33,7 @@ To get started with this project, follow the steps below:
 5. Install the required dependencies: `pip install -r requirements.txt`
 6. Run the Gradio application: `python app.py`
 
-Now, open up your local host and see the web application running. For more information, please refer to the Gradio documentation [here](https://www.gradio.app/docs/interface). Also, a live version of the application can be found [here](https://huggingface.co/spaces/sitammeur/TinySwallow-llamacpp).
+Now, you can open up your local host and see the web application running. For more information, please refer to the Gradio documentation [here](https://www.gradio.app/docs/interface). Also, a live version of the application can be found [here](https://huggingface.co/spaces/sitammeur/TinySwallow-llamacpp).
 
 ## Contributing
 
